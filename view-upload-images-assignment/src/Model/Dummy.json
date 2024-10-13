@@ -1,0 +1,16 @@
+{
+    "data":[
+        {
+            "src": "https://picsum.photos/200/300",
+            "thumbnail": "Beautiful Sunset"
+        },
+        {
+            "src": "https://picsum.photos/200/300",
+            "thumbnail": "Peaceful River"
+        },
+        {
+            "src": "https://picsum.photos/200/300",
+            "thumbnail": "Green sky"
+        }
+    ]
+}
